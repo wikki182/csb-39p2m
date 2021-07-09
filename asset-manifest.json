@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://wikki182.github.io/csb-39p2m/static/css/main.b71b2056.chunk.css",
+    "main.js": "https://wikki182.github.io/csb-39p2m/static/js/main.cc69bdce.chunk.js",
+    "main.js.map": "https://wikki182.github.io/csb-39p2m/static/js/main.cc69bdce.chunk.js.map",
+    "runtime-main.js": "https://wikki182.github.io/csb-39p2m/static/js/runtime-main.9d66dd46.js",
+    "runtime-main.js.map": "https://wikki182.github.io/csb-39p2m/static/js/runtime-main.9d66dd46.js.map",
+    "static/css/2.06f676d0.chunk.css": "https://wikki182.github.io/csb-39p2m/static/css/2.06f676d0.chunk.css",
+    "static/js/2.21615b39.chunk.js": "https://wikki182.github.io/csb-39p2m/static/js/2.21615b39.chunk.js",
+    "static/js/2.21615b39.chunk.js.map": "https://wikki182.github.io/csb-39p2m/static/js/2.21615b39.chunk.js.map",
+    "index.html": "https://wikki182.github.io/csb-39p2m/index.html",
+    "static/css/2.06f676d0.chunk.css.map": "https://wikki182.github.io/csb-39p2m/static/css/2.06f676d0.chunk.css.map",
+    "static/css/main.b71b2056.chunk.css.map": "https://wikki182.github.io/csb-39p2m/static/css/main.b71b2056.chunk.css.map",
+    "static/js/2.21615b39.chunk.js.LICENSE.txt": "https://wikki182.github.io/csb-39p2m/static/js/2.21615b39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d66dd46.js",
+    "static/css/2.06f676d0.chunk.css",
+    "static/js/2.21615b39.chunk.js",
+    "static/css/main.b71b2056.chunk.css",
+    "static/js/main.cc69bdce.chunk.js"
+  ]
+}
